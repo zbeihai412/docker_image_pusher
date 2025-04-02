@@ -1,2 +1,2 @@
-docker/compose:alpine-1.29.2 Copy
+docker/compose:alpine-1.29.2 
 
