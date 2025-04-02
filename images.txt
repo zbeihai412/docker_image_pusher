@@ -1,2 +1,3 @@
 alpine
 mthreads/ollama:0.6.3-13-g24dd379-musa
+compose:alpine-1.29.2
