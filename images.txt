@@ -1,2 +1,1 @@
- chromadb/chroma:1.0.6.dev12
-
+ nginx:stable-alpine3.20-perl
