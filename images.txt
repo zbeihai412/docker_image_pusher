@@ -1,2 +1,2 @@
-docker pull bitnami/milvus:2.5.10-debian-12-r0
+ bitnami/milvus:2.5.10-debian-12-r0
 
