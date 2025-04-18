@@ -1,2 +1,2 @@
-docker/compose:alpine-1.29.2 
+docker pull bitnami/milvus:2.5.10-debian-12-r0
 
