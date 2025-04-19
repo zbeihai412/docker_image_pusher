@@ -1,1 +1,1 @@
-zilliz/attu:v2.5
+rancher/etcd:v3.4.13-k3s1
