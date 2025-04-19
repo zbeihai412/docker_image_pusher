@@ -1,1 +1,1 @@
-minio/minio:latest
+ bitnami/etcd:latest
