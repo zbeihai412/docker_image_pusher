@@ -1,1 +1,1 @@
-milvusdb/milvus:master-20250418-c8933442-amd64
+zilliz/attu:v2.5
