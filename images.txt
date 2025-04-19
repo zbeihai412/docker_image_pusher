@@ -1,1 +1,1 @@
- bitnami/etcd:latest
+docker/ucp-etcd:3.1.14
