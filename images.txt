@@ -1,1 +1,1 @@
-docker/ucp-etcd:3.1.14
+gcr.io/etcd-development/etcd:v3.4.37-arm64
