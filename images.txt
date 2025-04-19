@@ -1,1 +1,1 @@
- nginx:stable-alpine3.20-perl
+milvusdb/milvus:master-20250418-c8933442-amd64
